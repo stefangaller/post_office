@@ -6,3 +6,6 @@
 ## [0.1.0]
 
 * Added example
+
+## [0.1.0+1]
+* updated metadata

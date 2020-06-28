@@ -1,6 +1,8 @@
 name: post_office
 description: Simply post messages from anywhere in your app to PostBox widgets and display them.
-version: 0.1.0
+version: 0.1.0+1
+repository: https://github.com/stefangaller/post_office
+issue_tracker: https://github.com/stefangaller/post_office/issues
 homepage: https://stefangaller.at
 
 environment:

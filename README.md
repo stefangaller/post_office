@@ -7,7 +7,7 @@ PostOffice allows you to trigger info messages in your app and display them ever
 ## Installation
 ```yaml
 dependencies:
-  post_office: ^0.0.1
+  post_office: ^0.1.0
 ```
 
 ## Usage
